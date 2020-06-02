@@ -1,0 +1,13 @@
+C:\Users\bender\Desktop\Cours online Int3\Cours Analyse UML GAMES\Analyse UML\Exemples rélations en code C#\obj\Debug\netcoreapp3.1\Exemples rélations en code C#.csprojAssemblyReference.cache
+C:\Users\bender\Desktop\Cours online Int3\Cours Analyse UML GAMES\Analyse UML\Exemples rélations en code C#\obj\Debug\netcoreapp3.1\Exemples rélations en code C#.AssemblyInfoInputs.cache
+C:\Users\bender\Desktop\Cours online Int3\Cours Analyse UML GAMES\Analyse UML\Exemples rélations en code C#\obj\Debug\netcoreapp3.1\Exemples rélations en code C#.AssemblyInfo.cs
+C:\Users\bender\Desktop\Cours online Int3\Cours Analyse UML GAMES\Analyse UML\Exemples rélations en code C#\obj\Debug\netcoreapp3.1\Exemples rélations en code C#.csproj.CoreCompileInputs.cache
+C:\Users\bender\Desktop\Cours online Int3\Cours Analyse UML GAMES\Analyse UML\Exemples rélations en code C#\bin\Debug\netcoreapp3.1\Exemples rélations en code C#.exe
+C:\Users\bender\Desktop\Cours online Int3\Cours Analyse UML GAMES\Analyse UML\Exemples rélations en code C#\bin\Debug\netcoreapp3.1\Exemples rélations en code C#.deps.json
+C:\Users\bender\Desktop\Cours online Int3\Cours Analyse UML GAMES\Analyse UML\Exemples rélations en code C#\bin\Debug\netcoreapp3.1\Exemples rélations en code C#.runtimeconfig.json
+C:\Users\bender\Desktop\Cours online Int3\Cours Analyse UML GAMES\Analyse UML\Exemples rélations en code C#\bin\Debug\netcoreapp3.1\Exemples rélations en code C#.runtimeconfig.dev.json
+C:\Users\bender\Desktop\Cours online Int3\Cours Analyse UML GAMES\Analyse UML\Exemples rélations en code C#\bin\Debug\netcoreapp3.1\Exemples rélations en code C#.dll
+C:\Users\bender\Desktop\Cours online Int3\Cours Analyse UML GAMES\Analyse UML\Exemples rélations en code C#\bin\Debug\netcoreapp3.1\Exemples rélations en code C#.pdb
+C:\Users\bender\Desktop\Cours online Int3\Cours Analyse UML GAMES\Analyse UML\Exemples rélations en code C#\obj\Debug\netcoreapp3.1\Exemples rélations en code C#.dll
+C:\Users\bender\Desktop\Cours online Int3\Cours Analyse UML GAMES\Analyse UML\Exemples rélations en code C#\obj\Debug\netcoreapp3.1\Exemples rélations en code C#.pdb
+C:\Users\bender\Desktop\Cours online Int3\Cours Analyse UML GAMES\Analyse UML\Exemples rélations en code C#\obj\Debug\netcoreapp3.1\Exemples rélations en code C#.genruntimeconfig.cache

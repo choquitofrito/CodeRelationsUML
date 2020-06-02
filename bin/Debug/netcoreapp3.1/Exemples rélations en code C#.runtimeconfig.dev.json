@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bender\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bender\\.nuget\\packages"
+    ]
+  }
+}
