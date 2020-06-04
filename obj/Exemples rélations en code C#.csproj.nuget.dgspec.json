@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bender\\Desktop\\Cours online Int3\\Cours Analyse UML GAMES\\Analyse UML\\Exemples rélations en code C#\\Exemples rélations en code C#.csproj": {}
+    "C:\\Users\\bender\\Desktop\\Cours online Int3\\Cours Analyse UML GAMES\\Exemples rélations en code C#\\Exemples rélations en code C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bender\\Desktop\\Cours online Int3\\Cours Analyse UML GAMES\\Analyse UML\\Exemples rélations en code C#\\Exemples rélations en code C#.csproj": {
+    "C:\\Users\\bender\\Desktop\\Cours online Int3\\Cours Analyse UML GAMES\\Exemples rélations en code C#\\Exemples rélations en code C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bender\\Desktop\\Cours online Int3\\Cours Analyse UML GAMES\\Analyse UML\\Exemples rélations en code C#\\Exemples rélations en code C#.csproj",
+        "projectUniqueName": "C:\\Users\\bender\\Desktop\\Cours online Int3\\Cours Analyse UML GAMES\\Exemples rélations en code C#\\Exemples rélations en code C#.csproj",
         "projectName": "Exemples rélations en code C#",
-        "projectPath": "C:\\Users\\bender\\Desktop\\Cours online Int3\\Cours Analyse UML GAMES\\Analyse UML\\Exemples rélations en code C#\\Exemples rélations en code C#.csproj",
+        "projectPath": "C:\\Users\\bender\\Desktop\\Cours online Int3\\Cours Analyse UML GAMES\\Exemples rélations en code C#\\Exemples rélations en code C#.csproj",
         "packagesPath": "C:\\Users\\bender\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bender\\Desktop\\Cours online Int3\\Cours Analyse UML GAMES\\Analyse UML\\Exemples rélations en code C#\\obj\\",
+        "outputPath": "C:\\Users\\bender\\Desktop\\Cours online Int3\\Cours Analyse UML GAMES\\Exemples rélations en code C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bender\\AppData\\Roaming\\NuGet\\NuGet.Config"
