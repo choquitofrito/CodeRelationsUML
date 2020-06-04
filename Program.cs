@@ -5,6 +5,7 @@ using Association;
 using System.Collections.Generic;
 using Reflexive;
 using Composition;
+using ClasseAssociation;
 
 namespace Exemples_rélations_en_code_C_
 {
@@ -104,6 +105,29 @@ namespace Exemples_rélations_en_code_C_
             parent.addEnfant(f2);
 
             parent.afficheEnfants();
+
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine("Classe Association");
+            Console.WriteLine("------------------");
+         
+            Player player1 = new Player("Claudia");
+            Player player2 = new Player("Toto");
+
+            Boss boss1 = new Boss("Hammerhead");
+
+            KillDetail k1 = new KillDetail(player1, boss1, 10);
+            KillDetail k2 = new KillDetail(player2, boss1, 20);
+
+            Console.WriteLine("Le player " + player1.Nom + " lutte contre "
+                                + boss1.Nom + " et il a fait " + k1.HitPoints);
+
+            Console.WriteLine("Le player " + player2.Nom + " lutte contre "
+                                            + boss1.Nom + " et il a fait " + k2.HitPoints);
+
+
+            Console.WriteLine("Le player " + k1.player.Nom + " lutte contre "
+                                + k1.boss.Nom + " et il a fait " + k1.HitPoints);
 
 
         }
